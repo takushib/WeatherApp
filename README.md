@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This simple weather app allows a user to browse certain locations within the United States and view their current climate data. The home page displays the current climate data of the user's current browser location (if accessible). A user can also save their current location to a list (made possible by Redux). 
+
+
 Note: This app is entirely implemented on the frontend, there is no backend for this project. 
 ## Available Scripts
 
